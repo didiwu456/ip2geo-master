@@ -1,5 +1,7 @@
 # ip2geo
 
+https://github.com/philhagen/ip2geo
+Modified to support python 3 
 This script reads IP addresses from STDIN and uses the MaxMind GeoIP databases to output various data points for each source IP.  The script uses the GeoCityLite and ASN databases for enrichment.  The user can specify various fields for output in a format string.  You can use this script to download the GeoIP database files if needed as well.
 
 ## Usage
